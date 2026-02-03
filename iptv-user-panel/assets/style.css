@@ -1,0 +1,34 @@
+body {
+  background:#020617;
+  color:#fff;
+  font-family:Arial;
+}
+.box {
+  width:360px;
+  margin:100px auto;
+  background:#0f172a;
+  padding:30px;
+  border-radius:10px;
+}
+input, button {
+  width:100%;
+  padding:10px;
+  margin:10px 0;
+}
+button {
+  background:#2563eb;
+  color:#fff;
+  border:0;
+}
+.card {
+  background:#020617;
+  padding:15px;
+  border-radius:8px;
+  margin-bottom:15px;
+}
+.logout {
+  color:#f87171;
+}
+.error {
+  color:#f87171;
+}
